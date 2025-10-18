@@ -78,6 +78,12 @@ pagerSize = 9
     url = "/posts/"
     weight = 2
 
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
 [[menu.main]]
     name = "About"
     url = "/about/"
