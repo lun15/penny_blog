@@ -1,6 +1,6 @@
 baseURL = "https://github.com/lun15/penny_blog"
 
-title = "Lightbi"
+title = "Penny's"
 theme = "lightbi-hugo"
 summaryLength  = "30"
 metaDataFormat = "yaml"
