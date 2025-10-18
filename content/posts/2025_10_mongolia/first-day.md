@@ -1,6 +1,8 @@
 ---
 title: 內蒙9日遊 - 第一日
 date: 2025-10-18
+description: "衝了"
+Image : "img/2025_10_mongolia/20251018/gallery/飛機/242705_0.jpg"
 tags: ["內蒙"]
 ---
 
