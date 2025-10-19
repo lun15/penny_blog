@@ -23,7 +23,7 @@ tags: ["內蒙"]
 {{< img_gallery  folder="img/2025_10_mongolia/20251018/gallery/天壇" >}}
 
 住在一個超級單間
-{{<figure src="/img/2025_10_mongolia/20251018/gallery/住宿/137486.jpg" >}}
+{{< figure src="/img/2025_10_mongolia/20251018/gallery/住宿/137486.jpg" >}}
 
 
 你的心胸有多寬廣，你的戰馬就能馳騁多遠 ─  成吉思汗
