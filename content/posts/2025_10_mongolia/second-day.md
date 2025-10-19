@@ -2,7 +2,7 @@
 title: 內蒙秋末9日遊 - 第二日
 date: 2025-10-19
 description: "前往海拉爾"
-Image : "img/2025_10_mongolia/20251019/早餐/137484.jpg"
+Image : "img/2025_10_mongolia/20251019/137496_0.jpg"
 tags: ["內蒙"]
 ---
 
@@ -19,3 +19,6 @@ tags: ["內蒙"]
 
 前往大興機場的地鐵上
 {{< img_gallery  folder="img/2025_10_mongolia/20251019/出發" >}}
+
+到了海拉爾了!! 飄雪的呼倫貝爾啊!!
+{{< img_gallery  folder="img/2025_10_mongolia/20251019/飛機" >}}
