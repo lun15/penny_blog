@@ -1,8 +1,8 @@
 ---
-title: 內蒙9日遊 - 第一日
+title: 內蒙秋末9日遊 - 第一日
 date: 2025-10-18
 description: "衝了"
-Image : "img/2025_10_mongolia/20251018/gallery/飛機/242705_0.jpg"
+Image : "img/2025_10_mongolia/20251018/242705_0.jpg"
 tags: ["內蒙"]
 ---
 
@@ -13,14 +13,17 @@ tags: ["內蒙"]
 坐上飛機出發
 {{< img_gallery  folder="img/2025_10_mongolia/20251018/gallery/飛機" >}}
 
-去逛超市
+去逛超市，買了一個 8.2 塊的石榴
 {{< img_gallery  folder="img/2025_10_mongolia/20251018/gallery/超市" >}}
 
-吃烤鴨
+去 **聚味坊烤鴨店** 吃烤鴨，人均消費 70
 {{< img_gallery  folder="img/2025_10_mongolia/20251018/gallery/烤鴨" >}}
 
-遊天壇，剛好遇到點燈
+遊天壇，剛好遇到點燈，門票一個人 34 元，超級冷，當天溫度 9 度
 {{< img_gallery  folder="img/2025_10_mongolia/20251018/gallery/天壇" >}}
+
+住在一個超級單間
+{{<figure src="/img/2025_10_mongolia/20251018/gallery/住宿/137486.jpg" >}}
 
 
 你的心胸有多寬廣，你的戰馬就能馳騁多遠 ─  成吉思汗
