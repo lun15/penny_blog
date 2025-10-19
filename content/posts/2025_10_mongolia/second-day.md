@@ -2,7 +2,7 @@
 title: 內蒙秋末9日遊 - 第二日
 date: 2025-10-19
 description: "前往海拉爾"
-Image : "img/2025_10_mongolia/20251019/137480.jpg"
+Image : "img/2025_10_mongolia/20251019/早餐/137484.jpg"
 tags: ["內蒙"]
 ---
 
