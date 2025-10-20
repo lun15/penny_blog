@@ -22,3 +22,15 @@ tags: ["內蒙"]
 
 到了海拉爾了!! 飄雪的呼倫貝爾啊!!
 {{< img_gallery  folder="img/2025_10_mongolia/20251019/飛機" >}}
+
+飄雪的海拉爾，森林公園每人 30 元
+{{< img_gallery  folder="img/2025_10_mongolia/20251019/飄雪的海拉爾" >}}
+
+中餐，諾敏塔拉奶茶館 8 個人 585 元
+{{< img_gallery  folder="img/2025_10_mongolia/20251019/中餐" >}}
+
+成吉思汗廣場
+{{< img_gallery  folder="img/2025_10_mongolia/20251019/成吉思汗廣場" >}}
+
+晚餐，菌香園火鍋 8 個人 1118 元
+{{< img_gallery  folder="img/2025_10_mongolia/20251019/晚餐" >}}
