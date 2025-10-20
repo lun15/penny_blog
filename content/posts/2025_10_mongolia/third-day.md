@@ -30,7 +30,7 @@ tags: ["內蒙"]
 
 
 中餐吃炒土豆斯
-{{< figure src="/img/2025_10_mongolia/20251020/138190_0.jpg"  >}}
+{{< figure src="/img/2025_10_mongolia/20251020/中餐/138190_0.jpg"  >}}
 
 晚餐吃麻辣燙，15 元
 {{< img_gallery  folder="img/2025_10_mongolia/20251020/晚餐" >}}
