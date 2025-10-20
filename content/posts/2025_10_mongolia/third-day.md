@@ -14,3 +14,6 @@ tags: ["內蒙"]
 莫日格勒河
 {{< img_gallery  folder="img/2025_10_mongolia/20251020/莫日格勒河" >}}
 
+
+達爾吉林寺
+{{< img_gallery  folder="img/2025_10_mongolia/20251020/達爾吉林寺" >}}
