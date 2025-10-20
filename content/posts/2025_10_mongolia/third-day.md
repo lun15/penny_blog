@@ -18,5 +18,5 @@ tags: ["內蒙"]
 達爾吉林寺
 {{< img_gallery  folder="img/2025_10_mongolia/20251020/達爾吉林寺" >}}
 
-秋末的呼倫貝爾，還好有暖爐
-{{< figure src="/img/2025_10_mongolia/20251020/138104.jpg" >}}
+秋末的呼倫貝爾，室內都有暖爐
+{{< img_gallery  folder="img/2025_10_mongolia/20251020/暖爐" >}}
