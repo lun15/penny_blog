@@ -18,4 +18,10 @@ tags: ["內蒙"]
 喝咖啡逛市集，瑞新美式 23 元，去市場還買了很好吃的松子1斤 52 元、野生藍莓 35 元
 {{< img_gallery  folder="img/2025_10_mongolia/20251021/咖啡" >}}
 
+出發，沿路上都是白樺林
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/白樺林" >}}
+
+去看別人家的麋鹿
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/麋鹿" >}}
+
 
