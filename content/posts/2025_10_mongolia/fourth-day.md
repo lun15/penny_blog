@@ -1,8 +1,8 @@
 ---
 title: 內蒙秋末9日遊 - 第四日
 date: 2025-10-21
-description: "白茫茫"
-Image : "img/2025_10_mongolia/20251020/137941_0.jpg"
+description: "市集吃喝"
+Image : "img/2025_10_mongolia/20251021/138393_0.jpg"
 tags: ["內蒙"]
 ---
 
