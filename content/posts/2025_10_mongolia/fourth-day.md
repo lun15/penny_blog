@@ -26,3 +26,8 @@ tags: ["內蒙"]
 
 開始多方位麋鹿寫真
 {{< img_gallery  folder="img/2025_10_mongolia/20251021/麋鹿" >}}
+
+額爾古納的龍山爬山，還有夕陽，水
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/龍山" >}}
+
+
