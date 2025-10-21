@@ -21,15 +21,32 @@ tags: ["內蒙"]
 出發，莫爾道嘎沿路上都是白樺林
 {{< img_gallery  folder="img/2025_10_mongolia/20251021/白樺林" >}}
 
-去敖魯古雅，準備好餵它們的蘋果
+去敖魯古雅，外面還有牧羊犬
 {{< img_gallery  folder="img/2025_10_mongolia/20251021/敖魯古雅" >}}
 
 開始多方位麋鹿寫真
 {{< img_gallery  folder="img/2025_10_mongolia/20251021/麋鹿" >}}
 
+他們吃的是苔癬，雖然看起來好像隨便給他東西都它都吃
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/苔癬" >}}
+
+
+麋鹿之間的互動
+{{< figure src="/img/2025_10_mongolia/20251021/138510_0.jpg"  width="30%" >}}
+
+梅花鹿吃的是飼料
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/梅花鹿" >}}
+
 額爾古納的龍山爬山，還有夕陽，水
 {{< img_gallery  folder="img/2025_10_mongolia/20251021/龍山" >}}
 
+
+晚餐，順便去逛超市
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/晚餐" >}}
+
+
+休息了，夜晚的莫爾道嘎
+{{< img_gallery  folder="img/2025_10_mongolia/20251021/住宿" >}}
 
 
 
