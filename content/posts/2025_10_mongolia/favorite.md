@@ -1,6 +1,6 @@
 ---
 title: 內蒙秋末9日遊 - ❤️Favorite❤️
-date: 2025-10-20
+date: 2025-10-21
 description: "水"
 Image : "img/2025_10_mongolia/favorite/137692_0.jpg"
 tags: ["內蒙"]
