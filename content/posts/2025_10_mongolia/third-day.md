@@ -35,3 +35,5 @@ tags: ["內蒙"]
 晚餐吃麻辣燙，15 元
 {{< img_gallery  folder="img/2025_10_mongolia/20251020/晚餐" >}}
 
+晚上的根河
+{{< img_gallery  folder="img/2025_10_mongolia/20251020/天空" >}}
