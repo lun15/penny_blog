@@ -2,7 +2,7 @@
 title: 內蒙秋末9日遊 - 第六日
 date: 2025-10-23
 description: "享受就對了"
-Image : "img/2025_10_mongolia/20251023/晚餐/139434_0.jpg"
+Image : "img/2025_10_mongolia/20251023/前菜/139434_0.jpg"
 tags: ["內蒙"]
 ---
 
